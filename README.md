@@ -160,10 +160,3 @@ http://localhost:8080
 Shubham Saho
 
 GitHub: [https://github.com/saho03](https://github.com/saho03)
-
----
-
-# LinkedIn Project Description
-
-Developed a Spring Boot based Sale Campaign Management System with REST APIs for product management, campaign discounts, price tracking, scheduling, and MySQL database integration using layered architecture and JPA.
-﻿# SaleCampaignx
